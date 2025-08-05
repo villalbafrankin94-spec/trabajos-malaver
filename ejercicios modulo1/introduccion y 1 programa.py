@@ -1,0 +1,1 @@
+print("¡Hola Mundo! Python está instalado y funcionando.")
